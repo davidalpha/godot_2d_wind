@@ -1,0 +1,7 @@
+::res://::1442265744
+game.scn::PackedScene::1442265744::
+icon.png::ImageTexture::1442261011::
+::res://images::1442261104
+block.tex::ImageTexture::1442261104::texture_2d<>../../godot-master/demos/2d/tetris/block.png<>7c492b9991806719c29f764c8c9944d5<>1442170956
+::res://scripts::1442265748
+vert_area.gd::GDScript::1442265748::
