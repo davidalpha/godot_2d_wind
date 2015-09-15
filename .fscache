@@ -1,7 +1,8 @@
-::res://::1442301954
-game.scn::PackedScene::1442301954::
+::res://::1442305268
+box.gd::GDScript::1442305268::
+game.scn::PackedScene::1442304612::
 icon.png::ImageTexture::1442298147::
 ::res://images::1442298147
 block.tex::ImageTexture::1442298147::texture_2d<>../../godot-master/demos/2d/tetris/block.png<>7c492b9991806719c29f764c8c9944d5<>0
-::res://scripts::1442301961
-vert_area.gd::GDScript::1442301961::
+::res://scripts::1442305268
+vert_area.gd::GDScript::1442305268::
