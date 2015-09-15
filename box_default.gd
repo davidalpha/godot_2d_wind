@@ -6,4 +6,4 @@ extends RigidBody2D
 # var b="textvar"
 
 func _on_goal_body_enter( body ):
-	self.get_child(sprite)
+	
