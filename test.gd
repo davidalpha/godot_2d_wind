@@ -5,5 +5,8 @@ extends RigidBody2D
 # var a=2
 # var b="textvar"
 
+func _ready():
+	# Initialization here
+	pass
 
 
