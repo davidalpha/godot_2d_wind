@@ -14,3 +14,4 @@ func _on_goal_body_enter( body ):
 	print(body.get_name())
 	if body.get_name() == "box":
 		get_node("Label").set_text("GOAL!!!!")
+		body.set_opacity(0.5)
